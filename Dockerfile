@@ -2,7 +2,7 @@
 
 FROM node:17.3.0-alpine3.12
 
-ENV CARTO_VERSION 5.4.0
+ENV CARTO_VERSION=5.9.0
 
 # install CartoCSS
 RUN npm install -g \

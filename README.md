@@ -3,7 +3,7 @@
 Dockerfile for running [CartoCSS](https://github.com/mapbox/carto).
 
 * [CartoCSS](https://github.com/mapbox/carto) 1.2.0
-* [OpenStreetMap Carto](https://github.com/gravitystorm/openstreetmap-carto) 5.4.0
+* [OpenStreetMap Carto](https://github.com/gravitystorm/openstreetmap-carto) 5.9.0
 
 ## Running
 
